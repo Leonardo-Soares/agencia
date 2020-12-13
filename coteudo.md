@@ -23,26 +23,26 @@ Vamos dividir em vários passos de como iniciar seu empreendimento virtual:
    sem investir dinheiro, é otimizar seu site (caso tenha) de acordo com as boas
    práticas de SEO.
 
-Esse tipo de estratégia demanda muito tempo para dar frutos, mas a longo prazo
-você irá ter um site visualmente impecável e facilmente de ser encontrado por
-seu público-alvo.
+   Esse tipo de estratégia demanda muito tempo para dar frutos, mas a longo prazo
+   você irá ter um site visualmente impecável e facilmente de ser encontrado por
+   seu público-alvo.
 
 Técnicas que contribuem para o rankeamento para seu site de acordo com o Google
 são:
- Velocidade de carregamento das páginas;
- Responsividade (deve funcionar em qualquer dispositivo);
- Palavras-chaves relevantes;
- Posicionamento de links de forma estratégica
+   Velocidade de carregamento das páginas;
+   Responsividade (deve funcionar em qualquer dispositivo);
+   Palavras-chaves relevantes;
+   Posicionamento de links de forma estratégica
 
 5. Utilize o WordPrass ou o Blogger: o marketing de conteúdo é a forma de você
    produzir conteúdo em seu blog e encantar seu público-alvo com matérias
    relevantes e convertê-los em clientes.
 
-O blog é um melhor canal para produzir conteúdos pensando em futuramente
-converter o público em clientes.Além de ajudar seu site a aparecer nos
-mecanismos de buscas, devido a produção de conteúdos serem fundamentais
-na estratégia SEO.Uma forma de criar seu blog é através do WordPrass ou
-utilizando o Blogger.
+   O blog é um melhor canal para produzir conteúdos pensando em futuramente
+   converter o público em clientes.Além de ajudar seu site a aparecer nos
+   mecanismos de buscas, devido a produção de conteúdos serem fundamentais
+   na estratégia SEO.Uma forma de criar seu blog é através do WordPrass ou
+   utilizando o Blogger.
 
 6. Produza vídeos para o YouTube: um dos motivos de investir nesta plataforma é
    devido ele também ser um mecanismo de busca.E a plataforma traz uma vantagem
@@ -54,9 +54,9 @@ utilizando o Blogger.
    possui muitos segmentos que ainda não foram explorados.
 
 8. Publique conteúdos relevantes e de qualidades para suas redes socias:
-   (depois de google meu negócio) muitas pessoas criam perfil para seu empreendimento nas redes socias, no entanto publicam conteúdos irrelevantes, de baixa qualidade e alguns casos nem movimentam o perfil social.
+   (depois de google meu negócio) muitas pessoas criam perfil para seu empreendimento nas redes socias, no entanto publicam conteúdos irrelevantes, de baixa qualidade e alguns      casos nem movimentam o perfil social.
 
-Assim você deve pensar em seu público-alvo, nos objetivos primários e secundários, na identidade visual da marca e demais critérios. Feito isso, não se esqueça de mensurar os resultados periodicamente.
+   Assim você deve pensar em seu público-alvo, nos objetivos primários e secundários, na identidade visual da marca e demais critérios. Feito isso, não se esqueça de mensurar os   resultados periodicamente.
 
 9. Impulsione seus posts: criar uma campanha personalizada pelo gerenciador de anúncios ou impulsionar seus posts é uma ótima estratégia para alcançar possíveis clientes, o post a ser escolhido deverá ter um bom engajamento (quantidade de reações, os comentários e os compartilhamentos realizados) de seus seguidores, quando a publicação possui sucesso entre seus seguidores a chance de funcionar com outras pessoas são maiores também.
 
@@ -70,4 +70,4 @@ Assim você deve pensar em seu público-alvo, nos objetivos primários e secund�
 
 14. Capture e-mails e envie novidades regulamentes: os clientes ainda utilizam e-mails segundo uma pesquisa realizada em 2018 apontou que 76,8% dos entrevistados já realizaram uma compra a partir do recebimento de um newsletter. Ou seja, o potencial é grande demais para ser desperdiçado.
 
-Uma das formas de capturar e-mails é oferecer uma recompensa (ebooks, descontos, cursos e etc) para seu público.Com o e-mail de seu público mantenha eles atualizados de novidades e não exagere na dose para não praticar o temido spam.
+   Uma das formas de capturar e-mails é oferecer uma recompensa (ebooks, descontos, cursos e etc) para seu público.Com o e-mail de seu público mantenha eles atualizados de          novidades e não exagere na dose para não praticar o temido spam.
